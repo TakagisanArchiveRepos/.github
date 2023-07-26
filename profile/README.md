@@ -1,6 +1,11 @@
 # TakagiSanHome
 
-**README / Introduction：**
-**[中文](https://github.com/TakagisanArchiveRepos/.github/blob/main/intro%20(zh-CN).md) | [English](https://github.com/TakagisanArchiveRepos/.github/blob/main/intro%20(EN).md)**
-
-![Metrics](/github-metrics.svg)
+<p align="center">
+<b>聚合一切与《高木同学》有关的开源项目 | Dedicate all open-source projects about Takagi-san</b>
+</p>
+<p align="center">
+<b>README / Introduction：<a href="https://github.com/TakagisanArchiveRepos/.github/blob/main/intro%20(zh-CN).md">中文</a> | <a href="https://github.com/TakagisanArchiveRepos/.github/blob/main/intro%20(EN).md">English</a>
+</p>
+<center>
+  <img src="/github-metrics.svg" alt="Info">
+</center>
