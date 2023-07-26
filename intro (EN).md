@@ -1,6 +1,6 @@
 # Introduction
 
-The establishment of this Github organization initially stemmed from the development of a wiki-like website called "[Takagi Wiki Site](https://wiki.takag3.cn)". Being under the same organization would make it more convenient to coordinate efforts, rather than having multiple individual accounts.
+The establishment of this Github organization initially stemmed from the development of a wiki-like website called "[Takagi Wiki Site](https://wiki.takagi3.cn)". Being under the same organization would make it more convenient to coordinate efforts, rather than having multiple individual accounts.
 
 However, due to the limited number of contributors, progress in content development was slow. Considering the possibility of open sourcing, in case enthusiastic friends were willing to help, this Github organization was created as a means of consolidation based on a suggestion from another friend. Its original name was "TakagiWikiSitesCN".
 
