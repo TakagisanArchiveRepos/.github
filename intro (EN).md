@@ -6,6 +6,8 @@ However, due to the limited number of contributors, progress in content developm
 
 Later, upon searching on Github, it was discovered that there were actually several repositories related to Takagi, some of which were familiar names seen in various group chats. The idea arose to create a large open organization where all content related to Takagi could be integrated, forming a "specialized content" repository organization. As a result, the name was changed to "TakagisanArchiveRepos".
 
+2023.7.27: Finalized name - "TakagisanReposOrg"
+
 For friends who come across this, it is hoped that they can participate and contribute to the overall technical empowerment of the Takagi community.
 
 ---
