@@ -6,6 +6,3 @@
 <p align="center">
 <b>README / Introduction：<a href="https://github.com/TakagisanArchiveRepos/.github/blob/main/intro%20(zh-CN).md">中文</a> | <a href="https://github.com/TakagisanArchiveRepos/.github/blob/main/intro%20(EN).md">English</a>
 </p>
-<center>
-  <img src="/github-metrics.svg" alt="Info">
-</center>
